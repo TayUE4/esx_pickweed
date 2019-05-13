@@ -13,9 +13,8 @@ This script uses a prop cache instead of coordinates to enable "pickable" mariju
 
 I am not maintaining this script or providing direct support for it, you can reply in the forum thread or create a issue/PR and I will address at my next best conveinence.
 
-#Install Instructions:
 
-Operation:
+# Operation:
 1. Create "weed" item in your database items table.
 2. Add "esx_pickweed" to your server.cfg
 3. Head to any location with weed props and pick your plants!
