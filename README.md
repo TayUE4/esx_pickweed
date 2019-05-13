@@ -36,7 +36,7 @@ git clone https://github.com/TayUE4/esx_pickweed/
 ### License
 esx_pickweed
 
-Copyright (C) 2015-2018 Taylor Mckenzie
+Copyright (C) 2015-2019 Taylor Mckenzie
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
